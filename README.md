@@ -8,7 +8,6 @@
 
 ```bash
 git clone <repo-url>
-cd url-shortener
 
 cp .env.example .env
 
