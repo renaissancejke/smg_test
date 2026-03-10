@@ -36,7 +36,7 @@ curl -X POST http://localhost:8000/shorten \
 # {"short_id": "aB3xY9z", "short_url": "http://localhost:8000/aB3xY9z"}
 ```
 
-> `GET /{short_id}` возвращает 302 редирект — проверяй в браузере, не через Swagger.
+> `GET /{short_id}` возвращает 302 редирект — проверять в браузере, не через Swagger.
 
 ## Тесты
 
